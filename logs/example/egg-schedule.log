@@ -868,3 +868,6 @@
 2023-08-14 21:12:13,556 INFO 12712 [egg-schedule]: register schedule C:\Users\ZJY\Desktop\React-记账本\talkbook_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
 2023-08-14 21:12:13,556 INFO 12712 [egg-schedule]: register schedule C:\Users\ZJY\Desktop\React-记账本\talkbook_server\node_modules\egg-logrotator\app\schedule\clean_log.js
 2023-08-14 21:12:13,556 INFO 12712 [egg-schedule]: register schedule C:\Users\ZJY\Desktop\React-记账本\talkbook_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-14 21:12:15,247 INFO 13516 [egg-schedule]: register schedule C:\Users\ZJY\Desktop\React-记账本\talkbook_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-14 21:12:15,247 INFO 13516 [egg-schedule]: register schedule C:\Users\ZJY\Desktop\React-记账本\talkbook_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-14 21:12:15,247 INFO 13516 [egg-schedule]: register schedule C:\Users\ZJY\Desktop\React-记账本\talkbook_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
