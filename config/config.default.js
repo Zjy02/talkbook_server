@@ -40,9 +40,9 @@ module.exports = appInfo => {
     client: {
       host: 'localhost',
       port: '3306',
-      user: 'talkbook',
+      user: 'root',
       password: '123456',
-      database: 'talkbook',
+      database: 'account',
     },
     // 是否加载到app上,默认开启
     app: true,
