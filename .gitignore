@@ -9,7 +9,5 @@ coverage/
 .DS_Store
 *.sw*
 *.un~
-typings/
 .nyc_output/
 .github
-test/
